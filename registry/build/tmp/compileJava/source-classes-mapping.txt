@@ -1,0 +1,2 @@
+com/javastart/registry/RegistryApplication.java
+ com.javastart.registry.RegistryApplication

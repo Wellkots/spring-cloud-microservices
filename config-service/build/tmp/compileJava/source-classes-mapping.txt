@@ -1,0 +1,2 @@
+com/javastart/config/ConfigApplication.java
+ com.javastart.config.ConfigApplication
