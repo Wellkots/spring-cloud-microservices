@@ -2,6 +2,8 @@ spring:
   application:
     name: deposit-service
   cloud:
+
+    1
     config:
       uri: http://localhost:8001
       fail-fast: true
